@@ -1,0 +1,7 @@
+K:\Автоматическая_обработка_заказов\SDK_ClassLibrary\COM_InteropDoorsLibrary.dll
+K:\Автоматическая_обработка_заказов\SDK_ClassLibrary\COM_InteropDoorsLibrary.pdb
+K:\Автоматическая_обработка_заказов\SDK_ClassLibrary\COM_InteropDoorsLibrary.tlb
+E:\Махортов\Макросы\COM_InteropDoorsLibrary\obj\Debug\COM_InteropDoorsLibrary.csproj.AssemblyReference.cache
+E:\Махортов\Макросы\COM_InteropDoorsLibrary\obj\Debug\COM_InteropDoorsLibrary.csproj.CoreCompileInputs.cache
+E:\Махортов\Макросы\COM_InteropDoorsLibrary\obj\Debug\COM_InteropDoorsLibrary.dll
+E:\Махортов\Макросы\COM_InteropDoorsLibrary\obj\Debug\COM_InteropDoorsLibrary.pdb
